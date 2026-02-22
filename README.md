@@ -1,2 +1,2 @@
 # TiposGrafos
-El programa define un arreglo de vértices y una matriz de adyacencia fija. Luego se agregan aristas ubicando la posición de cada vértice y colocando 1 en la matriz. Finalmente se imprime la matriz resultante
+En esta práctica se representó un grafo en Java usando dos estructuras: matriz de adyacencia, que registra las conexiones en una tabla, y lista de adyacencia, que guarda los vecinos de cada vértice con HashMap. Además, se implementó el recorrido BFS para explorar el grafo por niveles desde un nodo inicial.
